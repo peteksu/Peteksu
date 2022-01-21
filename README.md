@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Petek.
-#### I am computer engineering student.
+#### I am a computer engineering student.
 
 Skills: PYTHON / JAVA/C / JS / HTML / CSS/PHP
 
